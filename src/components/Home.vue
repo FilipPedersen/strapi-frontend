@@ -1,9 +1,7 @@
 <template>
   <h1>Hello World</h1>
   <div class="nav">
-    <ul>
-      <li><a href="#">Home</a></li>
-    </ul>
+    <p>Strapi Headless CMS</p>
   </div>
 </template>
 
